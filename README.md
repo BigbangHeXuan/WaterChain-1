@@ -1,4 +1,11 @@
-原型地址主站: http://47.52.148.220/jieshuilian/mainC2C: http://47.52.148.220/jieshuilian/c2c## 主站
+原型地址
+
+主站: http://47.52.148.220/jieshuilian/main
+
+C2C: http://47.52.148.220/jieshuilian/c2c
+
+## 主站
+
 1. 没有头像上传接口、下载头像接口
 
 2. 没有设置资金密码接口，没有修改资金密码接口
