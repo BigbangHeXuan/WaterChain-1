@@ -21,13 +21,13 @@ C2C: http://47.52.148.220/jieshuilian/c2c
 http://jsl.sshsky.com/api/home/banner/bannerLists?cate=1&position=1
 ```json
 {
-  code: 1,
-  msg: "操作成功",
-  data: {
-    lists: [{
-      name: "PC轮播图2",
-      img: "http://jsl.sshsky.com/upload/admin/20181212/c7af1ab6db38e80d515a2be0d7a54e73.png",
-      url: "http://www.songshubuluo.net"
+  "code": 1,
+  "msg": "操作成功",
+  "data": {
+    "lists": [{
+      "name": "PC轮播图2",
+      "img": "http://jsl.sshsky.com/upload/admin/20181212/c7af1ab6db38e80d515a2be0d7a54e73.png",
+      "url": "http://www.songshubuluo.net"
     }]
   }
 }
