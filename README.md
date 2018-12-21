@@ -4,6 +4,8 @@
 
 C2C: http://47.52.148.220/jieshuilian/c2c
 
+接口:http://doc.cynthia.pw/project/FzxQJJzHSg.html
+
 ## 主站
 
 1. 没有头像上传接口、下载头像接口
