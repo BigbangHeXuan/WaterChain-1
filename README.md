@@ -4,7 +4,9 @@
 
 C2C: http://47.52.148.220/jieshuilian/c2c
 
-接口:http://doc.cynthia.pw/project/FzxQJJzHSg.html
+接口文档:http://doc.cynthia.pw
+
+接口文档:http://doc.sshsky.com
 
 ## 主站
 
